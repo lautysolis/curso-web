@@ -1,0 +1,12 @@
+div{
+    background: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    /*border-width: 2px;
+    border-color: black ;
+    border-style: solid;  es identico a la linea border */ 
+    border-radius: 20px 50px 0 70px;
+
+}

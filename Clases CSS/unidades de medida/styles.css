@@ -1,0 +1,28 @@
+div{
+    background: #ededed;
+    border-left: 6px solid #999;
+    font-family: sans-serif;
+    width: 15cm; /*tamaño absoluto*/
+    font-size: 5px;
+    height: 80vh; /*80% de todo lo visible en la pantalla*/
+}
+
+h1{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 90%; /*tamaño relativo*/
+}
+
+span{
+    color: #999;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+p{
+    color: #555;
+    text-align: justify;
+    font-size: 3em; /*el triple del bloque padre*/
+    padding: 10px;
+}

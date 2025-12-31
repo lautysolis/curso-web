@@ -1,0 +1,21 @@
+div{
+    width: 100px;
+    height: 100px; 
+    margin: 10px;
+}
+
+.box1{
+    background: #048; 
+}
+
+/* tecnica hexadecimal, donde el primer
+numero refiere a la tonalidad del rojo, el
+segundo a la del verde y el tercero al azul.
+se puede definir una gama intermedia con un segundo
+numero para cada color.
+*/
+
+.box2{
+    background: #a22;
+}
+
